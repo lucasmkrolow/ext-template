@@ -1,9 +1,9 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
-    "bundled": {@bundled},
+    "module": "KrolowExt",
+    "name": "Krolow Ext",
+    "description": "Krolow Ext.",
+    "author": "LMK",
+    "bundled": true,
     "acceptableVersions": [
         ">=7.3.0"
     ],
